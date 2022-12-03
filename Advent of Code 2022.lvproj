@@ -18,12 +18,22 @@
 			<Item Name="Day 2 Puzzle 2.vi" Type="VI" URL="../Puzzle VIs/Day 2 Puzzle 2.vi"/>
 			<Item Name="Day 3 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 3 Puzzle 1.vi"/>
 			<Item Name="Day 3 Puzzle 2.vi" Type="VI" URL="../Puzzle VIs/Day 3 Puzzle 2.vi"/>
+			<Item Name="Template.vi" Type="VI" URL="../Puzzle VIs/Template.vi"/>
 		</Item>
 		<Item Name="SubVIs" Type="Folder">
 			<Item Name="Letters to Value Lookup.vi" Type="VI" URL="../SubVIs/Letters to Value Lookup.vi"/>
 			<Item Name="Read Input File.vi" Type="VI" URL="../SubVIs/Read Input File.vi"/>
 			<Item Name="String to Separate Chars.vi" Type="VI" URL="../SubVIs/String to Separate Chars.vi"/>
 		</Item>
+		<Item Name="Day 4 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 4 Puzzle 1.vi"/>
+		<Item Name="Day 5 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 5 Puzzle 1.vi"/>
+		<Item Name="Day 6 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 6 Puzzle 1.vi"/>
+		<Item Name="Day 7 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 7 Puzzle 1.vi"/>
+		<Item Name="Day 8 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 8 Puzzle 1.vi"/>
+		<Item Name="Day 9 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 9 Puzzle 1.vi"/>
+		<Item Name="Day 10 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 10 Puzzle 1.vi"/>
+		<Item Name="Day 11 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 11 Puzzle 1.vi"/>
+		<Item Name="Day 12 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 12 Puzzle 1.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Close File+.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Close File+.vi"/>
