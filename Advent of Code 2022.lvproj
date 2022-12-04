@@ -18,6 +18,7 @@
 			<Item Name="Day 2 Puzzle 2.vi" Type="VI" URL="../Puzzle VIs/Day 2 Puzzle 2.vi"/>
 			<Item Name="Day 3 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 3 Puzzle 1.vi"/>
 			<Item Name="Day 3 Puzzle 2.vi" Type="VI" URL="../Puzzle VIs/Day 3 Puzzle 2.vi"/>
+			<Item Name="Day 4 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 4 Puzzle 1.vi"/>
 			<Item Name="Template.vi" Type="VI" URL="../Puzzle VIs/Template.vi"/>
 		</Item>
 		<Item Name="SubVIs" Type="Folder">
@@ -25,7 +26,8 @@
 			<Item Name="Read Input File.vi" Type="VI" URL="../SubVIs/Read Input File.vi"/>
 			<Item Name="String to Separate Chars.vi" Type="VI" URL="../SubVIs/String to Separate Chars.vi"/>
 		</Item>
-		<Item Name="Day 4 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 4 Puzzle 1.vi"/>
+		<Item Name="Compare overlapping.vi" Type="VI" URL="../SubVIs/Compare overlapping.vi"/>
+		<Item Name="Day 4 Puzzle 2.vi" Type="VI" URL="../Puzzle VIs/Day 4 Puzzle 2.vi"/>
 		<Item Name="Day 5 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 5 Puzzle 1.vi"/>
 		<Item Name="Day 6 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 6 Puzzle 1.vi"/>
 		<Item Name="Day 7 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 7 Puzzle 1.vi"/>
