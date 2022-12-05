@@ -19,16 +19,19 @@
 			<Item Name="Day 3 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 3 Puzzle 1.vi"/>
 			<Item Name="Day 3 Puzzle 2.vi" Type="VI" URL="../Puzzle VIs/Day 3 Puzzle 2.vi"/>
 			<Item Name="Day 4 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 4 Puzzle 1.vi"/>
+			<Item Name="Day 4 Puzzle 2.vi" Type="VI" URL="../Puzzle VIs/Day 4 Puzzle 2.vi"/>
+			<Item Name="Day 5 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 5 Puzzle 1.vi"/>
+			<Item Name="Day 5 Puzzle 2.vi" Type="VI" URL="../Puzzle VIs/Day 5 Puzzle 2.vi"/>
 			<Item Name="Template.vi" Type="VI" URL="../Puzzle VIs/Template.vi"/>
 		</Item>
 		<Item Name="SubVIs" Type="Folder">
+			<Item Name="Compare overlapping.vi" Type="VI" URL="../SubVIs/Compare overlapping.vi"/>
 			<Item Name="Letters to Value Lookup.vi" Type="VI" URL="../SubVIs/Letters to Value Lookup.vi"/>
 			<Item Name="Read Input File.vi" Type="VI" URL="../SubVIs/Read Input File.vi"/>
+			<Item Name="Separate Chars to String.vi" Type="VI" URL="../SubVIs/Separate Chars to String.vi"/>
 			<Item Name="String to Separate Chars.vi" Type="VI" URL="../SubVIs/String to Separate Chars.vi"/>
+			<Item Name="Trim Array Whitespace.vi" Type="VI" URL="../SubVIs/Trim Array Whitespace.vi"/>
 		</Item>
-		<Item Name="Compare overlapping.vi" Type="VI" URL="../SubVIs/Compare overlapping.vi"/>
-		<Item Name="Day 4 Puzzle 2.vi" Type="VI" URL="../Puzzle VIs/Day 4 Puzzle 2.vi"/>
-		<Item Name="Day 5 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 5 Puzzle 1.vi"/>
 		<Item Name="Day 6 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 6 Puzzle 1.vi"/>
 		<Item Name="Day 7 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 7 Puzzle 1.vi"/>
 		<Item Name="Day 8 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 8 Puzzle 1.vi"/>
@@ -49,6 +52,8 @@
 				<Item Name="Read File+ (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read File+ (string).vi"/>
 				<Item Name="Read Lines From File (with error IO).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read Lines From File (with error IO).vi"/>
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
+				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
+				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
