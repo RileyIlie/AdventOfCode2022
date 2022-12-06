@@ -22,9 +22,11 @@
 			<Item Name="Day 4 Puzzle 2.vi" Type="VI" URL="../Puzzle VIs/Day 4 Puzzle 2.vi"/>
 			<Item Name="Day 5 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 5 Puzzle 1.vi"/>
 			<Item Name="Day 5 Puzzle 2.vi" Type="VI" URL="../Puzzle VIs/Day 5 Puzzle 2.vi"/>
+			<Item Name="Day 6 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 6 Puzzle 1.vi"/>
 			<Item Name="Template.vi" Type="VI" URL="../Puzzle VIs/Template.vi"/>
 		</Item>
 		<Item Name="SubVIs" Type="Folder">
+			<Item Name="Array Elements Unique" Type="VI" URL="../SubVIs/Array Elements Unique"/>
 			<Item Name="Compare overlapping.vi" Type="VI" URL="../SubVIs/Compare overlapping.vi"/>
 			<Item Name="Letters to Value Lookup.vi" Type="VI" URL="../SubVIs/Letters to Value Lookup.vi"/>
 			<Item Name="Read Input File.vi" Type="VI" URL="../SubVIs/Read Input File.vi"/>
@@ -32,7 +34,7 @@
 			<Item Name="String to Separate Chars.vi" Type="VI" URL="../SubVIs/String to Separate Chars.vi"/>
 			<Item Name="Trim Array Whitespace.vi" Type="VI" URL="../SubVIs/Trim Array Whitespace.vi"/>
 		</Item>
-		<Item Name="Day 6 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 6 Puzzle 1.vi"/>
+		<Item Name="Day 6 Puzzle 2.vi" Type="VI" URL="../Puzzle VIs/Day 6 Puzzle 2.vi"/>
 		<Item Name="Day 7 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 7 Puzzle 1.vi"/>
 		<Item Name="Day 8 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 8 Puzzle 1.vi"/>
 		<Item Name="Day 9 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 9 Puzzle 1.vi"/>
@@ -40,6 +42,28 @@
 		<Item Name="Day 11 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 11 Puzzle 1.vi"/>
 		<Item Name="Day 12 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 12 Puzzle 1.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="user.lib" Type="Folder">
+				<Item Name="Search 1D Array (Boolean)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Search 1D Array (Boolean)__ogtk.vi"/>
+				<Item Name="Search 1D Array (CDB)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Search 1D Array (CDB)__ogtk.vi"/>
+				<Item Name="Search 1D Array (CSG)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Search 1D Array (CSG)__ogtk.vi"/>
+				<Item Name="Search 1D Array (CXT)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Search 1D Array (CXT)__ogtk.vi"/>
+				<Item Name="Search 1D Array (DBL)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Search 1D Array (DBL)__ogtk.vi"/>
+				<Item Name="Search 1D Array (EXT)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Search 1D Array (EXT)__ogtk.vi"/>
+				<Item Name="Search 1D Array (I8)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Search 1D Array (I8)__ogtk.vi"/>
+				<Item Name="Search 1D Array (I16)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Search 1D Array (I16)__ogtk.vi"/>
+				<Item Name="Search 1D Array (I32)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Search 1D Array (I32)__ogtk.vi"/>
+				<Item Name="Search 1D Array (I64)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Search 1D Array (I64)__ogtk.vi"/>
+				<Item Name="Search 1D Array (LVObject)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Search 1D Array (LVObject)__ogtk.vi"/>
+				<Item Name="Search 1D Array (Path)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Search 1D Array (Path)__ogtk.vi"/>
+				<Item Name="Search 1D Array (SGL)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Search 1D Array (SGL)__ogtk.vi"/>
+				<Item Name="Search 1D Array (String)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Search 1D Array (String)__ogtk.vi"/>
+				<Item Name="Search 1D Array (U8)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Search 1D Array (U8)__ogtk.vi"/>
+				<Item Name="Search 1D Array (U16)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Search 1D Array (U16)__ogtk.vi"/>
+				<Item Name="Search 1D Array (U32)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Search 1D Array (U32)__ogtk.vi"/>
+				<Item Name="Search 1D Array (U64)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Search 1D Array (U64)__ogtk.vi"/>
+				<Item Name="Search 1D Array (Variant)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Search 1D Array (Variant)__ogtk.vi"/>
+				<Item Name="Search Array__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Search Array__ogtk.vi"/>
+			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Close File+.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Close File+.vi"/>
 				<Item Name="compatReadText.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatReadText.vi"/>
