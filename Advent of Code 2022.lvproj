@@ -24,12 +24,16 @@
 			<Item Name="Day 5 Puzzle 2.vi" Type="VI" URL="../Puzzle VIs/Day 5 Puzzle 2.vi"/>
 			<Item Name="Day 6 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 6 Puzzle 1.vi"/>
 			<Item Name="Day 6 Puzzle 2.vi" Type="VI" URL="../Puzzle VIs/Day 6 Puzzle 2.vi"/>
+			<Item Name="Day 7 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 7 Puzzle 1.vi"/>
+			<Item Name="Day 7 Puzzle 2.vi" Type="VI" URL="../Puzzle VIs/Day 7 Puzzle 2.vi"/>
+			<Item Name="Day 8 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 8 Puzzle 1.vi"/>
 			<Item Name="Template.vi" Type="VI" URL="../Puzzle VIs/Template.vi"/>
 		</Item>
 		<Item Name="SubVIs" Type="Folder">
 			<Item Name="Array Elements Unique" Type="VI" URL="../SubVIs/Array Elements Unique"/>
 			<Item Name="Compare overlapping.vi" Type="VI" URL="../SubVIs/Compare overlapping.vi"/>
 			<Item Name="Letters to Value Lookup.vi" Type="VI" URL="../SubVIs/Letters to Value Lookup.vi"/>
+			<Item Name="One Dir Up.vi" Type="VI" URL="../SubVIs/One Dir Up.vi"/>
 			<Item Name="Read Input File.vi" Type="VI" URL="../SubVIs/Read Input File.vi"/>
 			<Item Name="Separate Chars to String.vi" Type="VI" URL="../SubVIs/Separate Chars to String.vi"/>
 			<Item Name="String to Separate Chars.vi" Type="VI" URL="../SubVIs/String to Separate Chars.vi"/>
@@ -37,13 +41,17 @@
 			<Item Name="Trim Array Whitespace.vi" Type="VI" URL="../SubVIs/Trim Array Whitespace.vi"/>
 			<Item Name="Update Dir Value.vi" Type="VI" URL="../SubVIs/Update Dir Value.vi"/>
 		</Item>
-		<Item Name="Day 7 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 7 Puzzle 1.vi"/>
-		<Item Name="Day 8 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 8 Puzzle 1.vi"/>
+		<Item Name="Bottom Visible.vi" Type="VI" URL="../SubVIs/Bottom Visible.vi"/>
+		<Item Name="Day 8 Puzzle 2.vi" Type="VI" URL="../Puzzle VIs/Day 8 Puzzle 2.vi"/>
 		<Item Name="Day 9 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 9 Puzzle 1.vi"/>
 		<Item Name="Day 10 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 10 Puzzle 1.vi"/>
 		<Item Name="Day 11 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 11 Puzzle 1.vi"/>
 		<Item Name="Day 12 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 12 Puzzle 1.vi"/>
-		<Item Name="One Dir Up.vi" Type="VI" URL="../SubVIs/One Dir Up.vi"/>
+		<Item Name="Is Tree on Edge" Type="VI" URL="../SubVIs/Is Tree on Edge"/>
+		<Item Name="Left Visible.vi" Type="VI" URL="../SubVIs/Left Visible.vi"/>
+		<Item Name="Right Visible.vi" Type="VI" URL="../SubVIs/Right Visible.vi"/>
+		<Item Name="Test.vi" Type="VI" URL="../SubVIs/Test.vi"/>
+		<Item Name="Top Visible.vi" Type="VI" URL="../SubVIs/Top Visible.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Search 1D Array (Boolean)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Search 1D Array (Boolean)__ogtk.vi"/>
