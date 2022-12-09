@@ -27,12 +27,17 @@
 			<Item Name="Day 7 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 7 Puzzle 1.vi"/>
 			<Item Name="Day 7 Puzzle 2.vi" Type="VI" URL="../Puzzle VIs/Day 7 Puzzle 2.vi"/>
 			<Item Name="Day 8 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 8 Puzzle 1.vi"/>
+			<Item Name="Day 8 Puzzle 2.vi" Type="VI" URL="../Puzzle VIs/Day 8 Puzzle 2.vi"/>
 			<Item Name="Template.vi" Type="VI" URL="../Puzzle VIs/Template.vi"/>
 		</Item>
 		<Item Name="SubVIs" Type="Folder">
 			<Item Name="Array Elements Unique" Type="VI" URL="../SubVIs/Array Elements Unique"/>
+			<Item Name="Bottom Visible.vi" Type="VI" URL="../SubVIs/Bottom Visible.vi"/>
 			<Item Name="Compare overlapping.vi" Type="VI" URL="../SubVIs/Compare overlapping.vi"/>
+			<Item Name="Coordinates Next to Each Other (incl diag).vi" Type="VI" URL="../SubVIs/Coordinates Next to Each Other (incl diag).vi"/>
+			<Item Name="Coordinates Overlapping.vi" Type="VI" URL="../SubVIs/Coordinates Overlapping.vi"/>
 			<Item Name="Letters to Value Lookup.vi" Type="VI" URL="../SubVIs/Letters to Value Lookup.vi"/>
+			<Item Name="Move one step in grid.vi" Type="VI" URL="../SubVIs/Move one step in grid.vi"/>
 			<Item Name="One Dir Up.vi" Type="VI" URL="../SubVIs/One Dir Up.vi"/>
 			<Item Name="Read Input File.vi" Type="VI" URL="../SubVIs/Read Input File.vi"/>
 			<Item Name="Separate Chars to String.vi" Type="VI" URL="../SubVIs/Separate Chars to String.vi"/>
@@ -41,19 +46,39 @@
 			<Item Name="Trim Array Whitespace.vi" Type="VI" URL="../SubVIs/Trim Array Whitespace.vi"/>
 			<Item Name="Update Dir Value.vi" Type="VI" URL="../SubVIs/Update Dir Value.vi"/>
 		</Item>
-		<Item Name="Bottom Visible.vi" Type="VI" URL="../SubVIs/Bottom Visible.vi"/>
-		<Item Name="Day 8 Puzzle 2.vi" Type="VI" URL="../Puzzle VIs/Day 8 Puzzle 2.vi"/>
 		<Item Name="Day 9 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 9 Puzzle 1.vi"/>
 		<Item Name="Day 10 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 10 Puzzle 1.vi"/>
 		<Item Name="Day 11 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 11 Puzzle 1.vi"/>
 		<Item Name="Day 12 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 12 Puzzle 1.vi"/>
+		<Item Name="Find out what this is.vi" Type="VI" URL="../SubVIs/Find out what this is.vi"/>
 		<Item Name="Is Tree on Edge" Type="VI" URL="../SubVIs/Is Tree on Edge"/>
 		<Item Name="Left Visible.vi" Type="VI" URL="../SubVIs/Left Visible.vi"/>
+		<Item Name="Positions.ctl" Type="VI" URL="../SubVIs/Positions.ctl"/>
 		<Item Name="Right Visible.vi" Type="VI" URL="../SubVIs/Right Visible.vi"/>
 		<Item Name="Test.vi" Type="VI" URL="../SubVIs/Test.vi"/>
 		<Item Name="Top Visible.vi" Type="VI" URL="../SubVIs/Top Visible.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
+				<Item Name="Remove Duplicates from 1D Array (Boolean)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Remove Duplicates from 1D Array (Boolean)__ogtk.vi"/>
+				<Item Name="Remove Duplicates from 1D Array (CDB)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Remove Duplicates from 1D Array (CDB)__ogtk.vi"/>
+				<Item Name="Remove Duplicates from 1D Array (CSG)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Remove Duplicates from 1D Array (CSG)__ogtk.vi"/>
+				<Item Name="Remove Duplicates from 1D Array (CXT)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Remove Duplicates from 1D Array (CXT)__ogtk.vi"/>
+				<Item Name="Remove Duplicates from 1D Array (DBL)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Remove Duplicates from 1D Array (DBL)__ogtk.vi"/>
+				<Item Name="Remove Duplicates from 1D Array (EXT)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Remove Duplicates from 1D Array (EXT)__ogtk.vi"/>
+				<Item Name="Remove Duplicates from 1D Array (I8)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Remove Duplicates from 1D Array (I8)__ogtk.vi"/>
+				<Item Name="Remove Duplicates from 1D Array (I16)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Remove Duplicates from 1D Array (I16)__ogtk.vi"/>
+				<Item Name="Remove Duplicates from 1D Array (I32)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Remove Duplicates from 1D Array (I32)__ogtk.vi"/>
+				<Item Name="Remove Duplicates from 1D Array (I64)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Remove Duplicates from 1D Array (I64)__ogtk.vi"/>
+				<Item Name="Remove Duplicates from 1D Array (LVObject)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Remove Duplicates from 1D Array (LVObject)__ogtk.vi"/>
+				<Item Name="Remove Duplicates from 1D Array (Path)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Remove Duplicates from 1D Array (Path)__ogtk.vi"/>
+				<Item Name="Remove Duplicates from 1D Array (SGL)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Remove Duplicates from 1D Array (SGL)__ogtk.vi"/>
+				<Item Name="Remove Duplicates from 1D Array (String)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Remove Duplicates from 1D Array (String)__ogtk.vi"/>
+				<Item Name="Remove Duplicates from 1D Array (U8)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Remove Duplicates from 1D Array (U8)__ogtk.vi"/>
+				<Item Name="Remove Duplicates from 1D Array (U16)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Remove Duplicates from 1D Array (U16)__ogtk.vi"/>
+				<Item Name="Remove Duplicates from 1D Array (U32)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Remove Duplicates from 1D Array (U32)__ogtk.vi"/>
+				<Item Name="Remove Duplicates from 1D Array (U64)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Remove Duplicates from 1D Array (U64)__ogtk.vi"/>
+				<Item Name="Remove Duplicates from 1D Array (Variant)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Remove Duplicates from 1D Array (Variant)__ogtk.vi"/>
+				<Item Name="Remove Duplicates from 1D Array__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Remove Duplicates from 1D Array__ogtk.vi"/>
 				<Item Name="Search 1D Array (Boolean)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Search 1D Array (Boolean)__ogtk.vi"/>
 				<Item Name="Search 1D Array (CDB)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Search 1D Array (CDB)__ogtk.vi"/>
 				<Item Name="Search 1D Array (CSG)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Search 1D Array (CSG)__ogtk.vi"/>
