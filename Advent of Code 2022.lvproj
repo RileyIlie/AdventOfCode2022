@@ -28,6 +28,7 @@
 			<Item Name="Day 7 Puzzle 2.vi" Type="VI" URL="../Puzzle VIs/Day 7 Puzzle 2.vi"/>
 			<Item Name="Day 8 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 8 Puzzle 1.vi"/>
 			<Item Name="Day 8 Puzzle 2.vi" Type="VI" URL="../Puzzle VIs/Day 8 Puzzle 2.vi"/>
+			<Item Name="Day 9 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 9 Puzzle 1.vi"/>
 			<Item Name="Template.vi" Type="VI" URL="../Puzzle VIs/Template.vi"/>
 		</Item>
 		<Item Name="SubVIs" Type="Folder">
@@ -46,7 +47,7 @@
 			<Item Name="Trim Array Whitespace.vi" Type="VI" URL="../SubVIs/Trim Array Whitespace.vi"/>
 			<Item Name="Update Dir Value.vi" Type="VI" URL="../SubVIs/Update Dir Value.vi"/>
 		</Item>
-		<Item Name="Day 9 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 9 Puzzle 1.vi"/>
+		<Item Name="Day 9 Puzzle 2.vi" Type="VI" URL="../Puzzle VIs/Day 9 Puzzle 2.vi"/>
 		<Item Name="Day 10 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 10 Puzzle 1.vi"/>
 		<Item Name="Day 11 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 11 Puzzle 1.vi"/>
 		<Item Name="Day 12 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 12 Puzzle 1.vi"/>
@@ -57,6 +58,7 @@
 		<Item Name="Right Visible.vi" Type="VI" URL="../SubVIs/Right Visible.vi"/>
 		<Item Name="Test.vi" Type="VI" URL="../SubVIs/Test.vi"/>
 		<Item Name="Top Visible.vi" Type="VI" URL="../SubVIs/Top Visible.vi"/>
+		<Item Name="Untitled 5.vi" Type="VI" URL="../SubVIs/Untitled 5.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Remove Duplicates from 1D Array (Boolean)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Remove Duplicates from 1D Array (Boolean)__ogtk.vi"/>
