@@ -29,6 +29,23 @@
 			<Item Name="Day 8 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 8 Puzzle 1.vi"/>
 			<Item Name="Day 8 Puzzle 2.vi" Type="VI" URL="../Puzzle VIs/Day 8 Puzzle 2.vi"/>
 			<Item Name="Day 9 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 9 Puzzle 1.vi"/>
+			<Item Name="Day 9 Puzzle 2.vi" Type="VI" URL="../Puzzle VIs/Day 9 Puzzle 2.vi"/>
+			<Item Name="Day 10 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 10 Puzzle 1.vi"/>
+			<Item Name="Day 11 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 11 Puzzle 1.vi"/>
+			<Item Name="Day 12 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 12 Puzzle 1.vi"/>
+			<Item Name="Day 13 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 13 Puzzle 1.vi"/>
+			<Item Name="Day 14 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 14 Puzzle 1.vi"/>
+			<Item Name="Day 15 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 15 Puzzle 1.vi"/>
+			<Item Name="Day 16 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 16 Puzzle 1.vi"/>
+			<Item Name="Day 17 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 17 Puzzle 1.vi"/>
+			<Item Name="Day 18 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 18 Puzzle 1.vi"/>
+			<Item Name="Day 19 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 19 Puzzle 1.vi"/>
+			<Item Name="Day 20 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 20 Puzzle 1.vi"/>
+			<Item Name="Day 21 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 21 Puzzle 1.vi"/>
+			<Item Name="Day 22 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 22 Puzzle 1.vi"/>
+			<Item Name="Day 23 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 23 Puzzle 1.vi"/>
+			<Item Name="Day 24 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 24 Puzzle 1.vi"/>
+			<Item Name="Day 25 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 25 Puzzle 1.vi"/>
 			<Item Name="Template.vi" Type="VI" URL="../Puzzle VIs/Template.vi"/>
 		</Item>
 		<Item Name="SubVIs" Type="Folder">
@@ -47,10 +64,6 @@
 			<Item Name="Trim Array Whitespace.vi" Type="VI" URL="../SubVIs/Trim Array Whitespace.vi"/>
 			<Item Name="Update Dir Value.vi" Type="VI" URL="../SubVIs/Update Dir Value.vi"/>
 		</Item>
-		<Item Name="Day 9 Puzzle 2.vi" Type="VI" URL="../Puzzle VIs/Day 9 Puzzle 2.vi"/>
-		<Item Name="Day 10 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 10 Puzzle 1.vi"/>
-		<Item Name="Day 11 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 11 Puzzle 1.vi"/>
-		<Item Name="Day 12 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 12 Puzzle 1.vi"/>
 		<Item Name="Find out what this is.vi" Type="VI" URL="../SubVIs/Find out what this is.vi"/>
 		<Item Name="Is Tree on Edge" Type="VI" URL="../SubVIs/Is Tree on Edge"/>
 		<Item Name="Left Visible.vi" Type="VI" URL="../SubVIs/Left Visible.vi"/>
