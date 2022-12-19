@@ -33,6 +33,7 @@
 			<Item Name="Day 10 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 10 Puzzle 1.vi"/>
 			<Item Name="Day 11 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 11 Puzzle 1.vi"/>
 			<Item Name="Day 11 Puzzle 2.vi" Type="VI" URL="../Puzzle VIs/Day 11 Puzzle 2.vi"/>
+			<Item Name="Day 12 Puzzle 1 Another angle.vi" Type="VI" URL="../Puzzle VIs/Day 12 Puzzle 1 Another angle.vi"/>
 			<Item Name="Day 12 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 12 Puzzle 1.vi"/>
 			<Item Name="Day 13 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 13 Puzzle 1.vi"/>
 			<Item Name="Day 14 Puzzle 1.vi" Type="VI" URL="../Puzzle VIs/Day 14 Puzzle 1.vi"/>
@@ -52,9 +53,11 @@
 		<Item Name="SubVIs" Type="Folder">
 			<Item Name="Array Elements Unique" Type="VI" URL="../SubVIs/Array Elements Unique"/>
 			<Item Name="Bottom Visible.vi" Type="VI" URL="../SubVIs/Bottom Visible.vi"/>
+			<Item Name="Can move" Type="VI" URL="../SubVIs/Can move"/>
 			<Item Name="Compare overlapping.vi" Type="VI" URL="../SubVIs/Compare overlapping.vi"/>
 			<Item Name="Coordinates Next to Each Other (incl diag).vi" Type="VI" URL="../SubVIs/Coordinates Next to Each Other (incl diag).vi"/>
 			<Item Name="Coordinates Overlapping.vi" Type="VI" URL="../SubVIs/Coordinates Overlapping.vi"/>
+			<Item Name="Create possible routes.vi" Type="VI" URL="../SubVIs/Create possible routes.vi"/>
 			<Item Name="Is Tree on Edge" Type="VI" URL="../SubVIs/Is Tree on Edge"/>
 			<Item Name="Left Visible.vi" Type="VI" URL="../SubVIs/Left Visible.vi"/>
 			<Item Name="Letters to Value Lookup.vi" Type="VI" URL="../SubVIs/Letters to Value Lookup.vi"/>
@@ -69,16 +72,16 @@
 			<Item Name="Top Visible.vi" Type="VI" URL="../SubVIs/Top Visible.vi"/>
 			<Item Name="Trim Array Whitespace.vi" Type="VI" URL="../SubVIs/Trim Array Whitespace.vi"/>
 			<Item Name="Update Dir Value.vi" Type="VI" URL="../SubVIs/Update Dir Value.vi"/>
+			<Item Name="Update Head Position.vi" Type="VI" URL="../SubVIs/Update Head Position.vi"/>
+			<Item Name="Updated Route.vi" Type="VI" URL="../SubVIs/Updated Route.vi"/>
 		</Item>
-		<Item Name="Can move" Type="VI" URL="../SubVIs/Can move"/>
-		<Item Name="Create possible routes.vi" Type="VI" URL="../SubVIs/Create possible routes.vi"/>
-		<Item Name="Day 12 Puzzle 1 Another angle.vi" Type="VI" URL="../Puzzle VIs/Day 12 Puzzle 1 Another angle.vi"/>
+		<Item Name="Find Neighbours 3D.vi" Type="VI" URL="../SubVIs/Find Neighbours 3D.vi"/>
 		<Item Name="Find out what this is.vi" Type="VI" URL="../SubVIs/Find out what this is.vi"/>
 		<Item Name="Not sure.vi" Type="VI" URL="../SubVIs/Not sure.vi"/>
+		<Item Name="Positions 3D.ctl" Type="VI" URL="../SubVIs/Positions 3D.ctl"/>
+		<Item Name="Select Shape.vi" Type="VI" URL="../SubVIs/Select Shape.vi"/>
 		<Item Name="Test.vi" Type="VI" URL="../SubVIs/Test.vi"/>
 		<Item Name="Untitled 5.vi" Type="VI" URL="../SubVIs/Untitled 5.vi"/>
-		<Item Name="Update Head Position.vi" Type="VI" URL="../SubVIs/Update Head Position.vi"/>
-		<Item Name="Updated Route.vi" Type="VI" URL="../SubVIs/Updated Route.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Remove Duplicates from 1D Array (Boolean)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Remove Duplicates from 1D Array (Boolean)__ogtk.vi"/>
